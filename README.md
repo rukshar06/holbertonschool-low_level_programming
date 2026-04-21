@@ -1,2 +1,2 @@
-# holbertonschool-low_level_programming
-c
+#!/bin/bash
+this is a readme
