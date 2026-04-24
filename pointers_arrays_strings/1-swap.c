@@ -1,5 +1,5 @@
 /**
- * swap - swap a to b
+ * swap_int - swap a to b
  * @a: is a pointer to an int
  * @b: is a pointer to an int
  *
