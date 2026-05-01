@@ -4,7 +4,7 @@
 /**
 * main - checks whether the last digit is greater than 5 or less than 6
 *
-* Return: Always 0
+* Return: Always 0 (success)
 **/
 
 int main(void)
@@ -18,7 +18,7 @@ last_digit = n % 10;
 
 if (last_digit > 5)
 {
-printf("last digit pf %d is %d and is greater than 5\n", n, last_digit);
+printf("last digit of %d is %d and is greater than 5\n", n, last_digit);
 }
 if (last_digit == 0)
 {
