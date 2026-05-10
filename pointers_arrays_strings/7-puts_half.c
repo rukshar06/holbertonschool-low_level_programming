@@ -24,4 +24,6 @@ void puts_half(char *str)
 
 		start_index++;
 	}
+
+	_putchar('\n');
 }
