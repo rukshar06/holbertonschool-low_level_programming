@@ -20,7 +20,7 @@ char *cap_string(char *str)
 			str[i] == ';' || str[i] == '?' || str[i] == ')' ||
 			str[i] == '\n' || str[i] == '.' || str[i] == '"' ||
 			str[i] == '{')
-			
+
 			nw = 1;
 		else
 			nw = 0;
