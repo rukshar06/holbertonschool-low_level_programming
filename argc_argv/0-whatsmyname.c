@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 {
 	int i = 0;
 
-	(argc --);
+	(argc--);
 
 	while (argv[0][i] != '\0')
 	{
